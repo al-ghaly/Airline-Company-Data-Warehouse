@@ -44,3 +44,20 @@ data-driven decisions.
 - **Database Tuning Intro:** A little brief about indexes.
 - **INSIGHTS:** Some insights we used the data warehouse to get and some questions we answered.
 - All insights are illustrated.
+
+<br>
+
+>**The modeling process for each business process of the 4 modeled processes is stated in the project docs (“Project Documentations.pdf” file):**
+  -  STEP ONE:<br>
+     o Stating the business processes.
+  -  STEP THREE:<br>
+     o Choosing the grain for each process.
+  -  STEP FIVE:<br>
+     o Choosing Facts & Dimensions.
+  -  STEP SEVEN:<br>
+     o The actual schema design.<br><br>
+
+>The logical schema design is stated in STEP SEVEN and in a separate “DWH Schema.PNG” file, STEP EIGHT is stating why we choose a star schema model, details about each component in the star schema are also stated in STEP EIGHT, and details about each component in our design is stated along with the actual component.
+
+> 14 Business Questions are answered with 25 SQL Statements in STEP TWELVE along with the output for each statement (Questions were stated in STEP TWO before we made the design, then we made a design that was able to answer all those questions and way more).
+  
