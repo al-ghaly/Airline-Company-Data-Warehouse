@@ -1,5 +1,5 @@
 # Airline Company Data Warehouse
- ## Data Warehouse modeling, design, implementation, and analysis for an Airline Company.
+### Data Warehouse modeling, design, implementation, and analysis for an Airline Company.
 ### This project is a real treasure for any one struggling to understand data warehouse concepts, modeling, design, implementation, data integration, or even SQL DML Statements, as it will walk you from square zero having nothing, into having a well-structured data warehouse, helping you along the side to understand all about data warehousing.
 
 <br>
