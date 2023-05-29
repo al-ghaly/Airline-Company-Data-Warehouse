@@ -1,10 +1,26 @@
 # Airline Company Data Warehouse
-### Data Warehouse modeling, design, implementation, and analysis for an Airline Company.
-### This project is a real treasure for any one struggling to understand data warehouse concepts, modeling, design, implementation, data integration, or even SQL DML Statements, as it will walk you from square zero having nothing, into having a well-structured data warehouse, helping you along the side to understand all about data warehousing.
+## Data Warehouse modeling, design, implementation, and analysis for an Airline Company.<br><br>
+> ### This project is a real treasure for any one struggling to understand data warehouse concepts, modeling, design, implementation, data integration, or even SQL DML Statements, as it will walk you from square zero having nothing, into having a well-structured data warehouse, helping you along the side to understand all about data warehousing.
+---
+<br>
+
+## The major purpose of the project is to model a data warehouse design that is able to help the management team make data-driven decisions.
+### Those questions were stated before the design and we want to design a data warehouse that is able to answer all those questions and more.
+![Questions](https://github.com/al-ghaly/Airline-Company-Data-Warehouse/assets/61648960/c7c5a788-b92c-4363-ae5b-35bf560ee007)
+<br><br><br>
+
+## With a good data warehouse model, we were able to answer all those questions and more with simple SQL Queries
+### Here is a sample of the queries to see how simple it is to gain any kind of insights you want from the data warehouse.
+![SQL 1](https://github.com/al-ghaly/Airline-Company-Data-Warehouse/assets/61648960/1ac0dc50-0796-4be0-957b-b73b71e1c12d)
+
+## Even more complex analysis is easy with a good model
+![SQL 2](https://github.com/al-ghaly/Airline-Company-Data-Warehouse/assets/61648960/2db1d74f-ef56-438a-8f92-058b9c03aabd)
 
 <br>
 
-#### The project is implemented in SQL SERVER Database, and I have attached both the DWH creation & Data population scripts, but for simplicity I have also attached a backup file of the data warehouse, you can restore it in SQL Server Management Studio.
+---
+
+> ### The project is implemented in SQL SERVER Database, and I have attached both the DWH creation & Data population scripts, but for simplicity I have also attached a backup file of the data warehouse, you can restore it in SQL Server Management Studio.
 
 ---
 <br>
